@@ -1,0 +1,1 @@
+docker run -dt --name Abathur -v ~/Abathur:/root -p 3000:3000 python:20slim

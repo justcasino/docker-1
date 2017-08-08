@@ -1,1 +1,1 @@
-docker ps -volumes
+docker volume ls
