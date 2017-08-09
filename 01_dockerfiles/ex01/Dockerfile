@@ -28,4 +28,4 @@ EXPOSE 9987/UDP
 EXPOSE 30033
 EXPOSE 10011
 
-ENTRYPOINT ["sh", "ts3server_minimal_runscript.sh"]i
+ENTRYPOINT ["sh", "ts3server_minimal_runscript.sh"]
